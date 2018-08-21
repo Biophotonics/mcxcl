@@ -1,17 +1,17 @@
-/*******************************************************************************
+/***************************************************************************//**
+**  \mainpage Monte Carlo eXtreme - GPU accelerated Monte Carlo Photon Migration \
+**      -- OpenCL edition
+**  \author Qianqian Fang <q.fang at neu.edu>
+**  \copyright Qianqian Fang, 2009-2018
 **
-**  Monte Carlo eXtreme - GPU accelerated Monte Carlo Photon Migration
-**  
-**  Author     : Qianqian Fang
-**  Email      : <fangq at nmr.mgh.harvard.edu>
-**  Institution: Massachusetts General Hospital / Harvard Medical School
-**  Address    : Bldg. 149, 13th Street, Charlestown, MA 02148, USA
-**  Homepage   : http://nmr.mgh.harvard.edu/~fangq/
+**  \section sref Reference:
+**  \li \c (\b Yu2018) Leiming Yu, Fanny Nina-Paravecino, David Kaeli, and Qianqian Fang,
+**          "Scalable and massively parallel Monte Carlo photon transport
+**           simulations for heterogeneous computing platforms," J. Biomed. Optics, 
+**           23(1), 010504 (2018)
 **
-**  MCX Web    : http://mcx.sourceforge.net
-**
-**  Unpublished work, see LICENSE.txt
-**
+**  \section slicense License
+**          GPL v3, see LICENSE.txt for details
 *******************************************************************************/
 
 #include <stdio.h>
